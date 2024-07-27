@@ -1,3 +1,5 @@
+![imageBackground](/assets/Git_Github.img.jpg)
+
 # Git
 - É um sistema de controle de versão;
 
